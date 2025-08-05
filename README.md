@@ -1,4 +1,4 @@
-# face-recognition
+# Face Recognition
 
 Face recognition in PyTorch.
 
