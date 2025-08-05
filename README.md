@@ -38,7 +38,7 @@ pip install opencv-python rich
 Clone this repository:
 
 ```bash
-git clone https://github.com/MarkIvory2973/ProxyTest.git
+git clone https://github.com/MarkIvory2973/face-recognition.git
 ```
 
 ## Usage
